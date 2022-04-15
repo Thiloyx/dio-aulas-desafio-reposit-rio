@@ -1,0 +1,17 @@
+## Pensamento computacional
+- Decomposição
+- Reconhecimento de padrões
+- Abstração
+- Algoritmos
+Quebra, liga, eleva, organiza
+
+## SCRUM
+- Project owner, Scrum Master, Dev team
+- Escopo e prioridade. Entender o ganho primeiro para definir escopo depois.
+- mínimo produto utlizaval e aprimoramento centrado no cliente baseado em valor (nubank)
+- Produt backlong: Épicos, estórias e tarefas
+
+Rotinas de um time ágil
+- Daily (oq fiz ontem, oq farei hj e algum impedimento) e review (good, bad, do more, do less, try. Verificar se demanda agrega valor)
+- Refinamento (um passo antes da planning)
+- Maturidade do time: Transparência, inspeção e adaptação
