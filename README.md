@@ -1,2 +1,2 @@
-# dio-aulas-desafio-reposit-rio
+# Repositório do desafio da DIO
 Desafio de projeto sobre Git/Github
