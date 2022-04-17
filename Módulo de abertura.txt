@@ -1,17 +1,25 @@
+#M√≥dulo 1
 ## Pensamento computacional
-- DecomposiÁ„o
-- Reconhecimento de padrıes
-- AbstraÁ„o
+- Decomposi√ß√£o
+- Reconhecimento de padr√µes
+- Abstra√ß√£o
 - Algoritmos
 Quebra, liga, eleva, organiza
 
 ## SCRUM
 - Project owner, Scrum Master, Dev team
 - Escopo e prioridade. Entender o ganho primeiro para definir escopo depois.
-- mÌnimo produto utlizaval e aprimoramento centrado no cliente baseado em valor (nubank)
-- Produt backlong: …picos, estÛrias e tarefas
+- m√≠nimo produto utlizaval e aprimoramento centrado no cliente baseado em valor (nubank)
+- Produt backlong: √âpicos, est√≥rias e tarefas
 
-Rotinas de um time ·gil
+## Rotinas de um time √°gil
 - Daily (oq fiz ontem, oq farei hj e algum impedimento) e review (good, bad, do more, do less, try. Verificar se demanda agrega valor)
 - Refinamento (um passo antes da planning)
-- Maturidade do time: TransparÍncia, inspeÁ„o e adaptaÁ„o
+- Maturidade do time: Transpar√™ncia, inspe√ß√£o e adapta√ß√£o
+
+#M√≥dulo 2
+##CSS3
+- text transform (uppercase, lowercase e capitalize) e text decoration (underline, overline e line-through)
+- Margin: dist√¢ncia entre elementos. Pagging: dist√¢ncia entre borda e conte√∫do
+- ol, ul, li. list-style-type (square, upper-roman, emoji) e list-style-image (url)
+- Height, width, max-height, max-width, margin, text align (left,right, center, justify)
