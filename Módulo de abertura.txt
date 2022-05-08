@@ -23,3 +23,23 @@ Quebra, liga, eleva, organiza
 - Margin: distância entre elementos. Pagging: distância entre borda e conteúdo
 - ol, ul, li. list-style-type (square, upper-roman, emoji) e list-style-image (url)
 - Height, width, max-height, max-width, margin, text align (left,right, center, justify)
+
+#Módulo 3
+###Orientação a objetos
+- Paradigmas declarativo (o que você vai fazer. Programação funcional) e imperativo (como vai resolver. Orientação a objetos)
+- Pilares: Herança, polimorfismo, encapsulamento e bastração
+- Objetos herdam propriedades e métodos de prototype. JS não possui classe nativa.
+- Constructor passa parâmetros para valores dentro da classe. Get e set. Super usa propriedades do constructor do pai
+
+###Map, filter e reduce
+- Map (callback, thisarg) retorna novo array, foreach retorna undefineded precisa de outra função pra ser usado
+- filter (callback, thisarg
+- Reduce(callbackfn e initialvalue - accumulator, current value, index e array) executa uma função em todos os elementos do array e retorna um valor único
+- DOM - document objet model, html. Filho do DOM.
+- BOM - brwonser object model. Window e tudo que está dentro desse objeto.
+
+###Manipulando DOM
+- Eventos: mouse(mouseover e mouseout), clique (click e dbclick), atualização (change e load). addeventlistener("click", "outra função")
+- onclick especiifica função diretamento no html
+- Queryselectorall - busca personalizada que permite incluir mais de uma classe ou tags diferentes
+- Document.createElement(element), document.removeChild(element), documment.appendChild(Child),document.replaceChild(new, old)
